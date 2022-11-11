@@ -1,0 +1,8 @@
+.box{
+    border: 2px solid red;
+    height: 200px 200px;
+    border: 2px solid pink;
+    height: 150px 150px;
+    border: 2px solid salmon;
+    height: 100px 100px;
+}

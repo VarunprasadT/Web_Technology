@@ -1,0 +1,6 @@
+.box{
+    padding: 10px  20px 30px 40px;
+    border: 2px solid dotted red;
+    margin: 20px;
+    background-color: cadetblue;
+}
